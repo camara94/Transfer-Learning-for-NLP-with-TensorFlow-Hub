@@ -5,3 +5,15 @@ Welcome to this hands-on project on transfer learning for natural language proce
 ## Welcome!
 
 Welcome to Transfer Learning for NLP with TensorFlow Hub. This is a project-based course which should take approximately 1.5 hours to complete. Before diving into the project, please take a look at the course objectives and structure:
+
+
+## Course Objectives
+
+In this course, we are going to focus on three learning objectives:
+
+* Use pre-trained NLP text embedding models from [TensorFlow Hub](https://tfhub.dev/)
+
+* Perform transfer learning to fine-tune models on real-world text data  
+
+* Visualize model performance metrics with [TensorBoard](https://www.tensorflow.org/tensorboard)  
+
