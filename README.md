@@ -26,3 +26,13 @@ This is a hands-on project on transfer learning for natural language processing 
 Prerequisites: In order to successfully complete this project, you should be competent in the Python programming language, be familiar with deep learning for Natural Language Processing (NLP), and have trained models with TensorFlow or and its Keras API.
 
 Note: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.
+
+## Course Structure
+
+This course is divided into 3 parts:
+
+1. Course Overview: This introductory reading material.
+
+2. **Transfer Learning for NLP with TensorFlow Hub**: This is the hands on project that we will work on in Rhyme.
+
+3. Graded Quiz: This is the final assignment that you need to pass in order to finish the course successfully.
