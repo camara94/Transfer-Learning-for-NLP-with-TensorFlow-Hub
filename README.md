@@ -24,3 +24,5 @@ In this course, we are going to focus on three learning objectives:
 This is a hands-on project on transfer learning for natural language processing with TensorFlow and TF Hub.  By the time you complete this project, you will be able to use pre-trained NLP text embedding models from TensorFlow Hub, perform transfer learning to fine-tune models on real-world data, build and evaluate multiple models for text classification with TensorFlow, and visualize model performance metrics with Tensorboard.
 
 Prerequisites: In order to successfully complete this project, you should be competent in the Python programming language, be familiar with deep learning for Natural Language Processing (NLP), and have trained models with TensorFlow or and its Keras API.
+
+Note: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.
