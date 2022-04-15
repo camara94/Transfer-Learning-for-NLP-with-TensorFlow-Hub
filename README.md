@@ -18,3 +18,5 @@ In this course, we are going to focus on three learning objectives:
 
 * Visualize model performance metrics with [TensorBoard](https://www.tensorflow.org/tensorboard)  
 
+
+![image](images/tensorboard.gif)
